@@ -12,8 +12,8 @@ This project is a starter kit that includes:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-repo.git
-cd your-repo
+git clone [https://github.com/your-repo.git](https://github.com/engislam95/React-vite-ts-redux-tailwind-starter-kit)
+cd react-vite-starter-kit
 ```
 
 ### 2️⃣ Install Dependencies
