@@ -33,10 +33,15 @@ yarn dev
 ├── src
 │   ├── api
 │   │   ├── axiosInstance.ts   # Axios instance with interceptors
-│   ├── redux
+│   ├── app 
 │   │   ├── slices
 │   │   │   ├── counterSlice.ts   # Counter state management example
 │   │   ├── store.ts           # Redux store configuration
+│   ├── pages
+│   │   ├── Home.tsx   # Home page
+│   │   ├── NotFound.tsx   # NotFound page
+│   ├── routes
+│   │   ├── index.tsx   # routes structure
 │   ├── App.tsx                # Main app component
 │   ├── main.tsx               # Entry point
 │   ├── index.css              # Tailwind CSS imports
