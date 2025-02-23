@@ -12,7 +12,7 @@ This project is a starter kit that includes:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone [https://github.com/your-repo.git](https://github.com/engislam95/React-vite-ts-redux-tailwind-starter-kit)
+git clone https://github.com/engislam95/React-vite-ts-redux-tailwind-starter-kit.git
 cd react-vite-starter-kit
 ```
 
